@@ -1,0 +1,105 @@
+m255
+K4
+z2
+!s11f vlog 2020.1 2020.02, Feb 28 2020
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+dD:/intel
+vFA_testbench
+Z0 !s110 1776251004
+!i10b 1
+!s100 YTdOhM5zbM5>7SU4Gc<G73
+Z1 !s11b Dg1SIo80bB@j0V0VzS_@n1
+IS@_he;cD6Eblb`mMM=Y8c1
+Z2 VDg1SIo80bB@j0V0VzS_@n1
+Z3 dC:/Users/ASUS/Desktop/FPGA_demo/T09/demo1_xor
+w1776136526
+8C:/Users/ASUS/Desktop/FPGA_demo/T09/demo2_FA/FA_testbench.v
+FC:/Users/ASUS/Desktop/FPGA_demo/T09/demo2_FA/FA_testbench.v
+!i122 20
+L0 3 31
+Z4 OV;L;2020.1;71
+r1
+!s85 0
+31
+Z5 !s108 1776251004.000000
+!s107 C:/Users/ASUS/Desktop/FPGA_demo/T09/demo2_FA/FA_testbench.v|
+!s90 -reportprogress|300|-work|work|-stats=none|C:/Users/ASUS/Desktop/FPGA_demo/T09/demo2_FA/FA_testbench.v|
+!i113 1
+Z6 o-work work
+Z7 tCvgOpt 0
+n@f@a_testbench
+vFull_adders
+R0
+!i10b 1
+!s100 Ie_^bfji1Mn:R:nhFDb4n3
+R1
+Ih79EdEk;=h[8`SB?3N_840
+R2
+R3
+w1776010080
+8C:/Users/ASUS/Desktop/FPGA_demo/T09/demo2_FA/Full_adders.v
+FC:/Users/ASUS/Desktop/FPGA_demo/T09/demo2_FA/Full_adders.v
+!i122 19
+L0 2 17
+R4
+r1
+!s85 0
+31
+R5
+!s107 C:/Users/ASUS/Desktop/FPGA_demo/T09/demo2_FA/Full_adders.v|
+!s90 -reportprogress|300|-work|work|-stats=none|C:/Users/ASUS/Desktop/FPGA_demo/T09/demo2_FA/Full_adders.v|
+!i113 1
+R6
+R7
+n@full_adders
+vtestbench
+!s110 1776250949
+!i10b 1
+!s100 :6>bcQM3UH^MdOX^oBU2A0
+R1
+IBMWR=>Tc9<mLCG`Z8:WC?2
+R2
+R3
+w1775999010
+8C:/Users/ASUS/Desktop/FPGA_demo/T09/demo1_xor/testbench.v
+FC:/Users/ASUS/Desktop/FPGA_demo/T09/demo1_xor/testbench.v
+!i122 18
+L0 3 25
+R4
+r1
+!s85 0
+31
+!s108 1776250949.000000
+!s107 C:/Users/ASUS/Desktop/FPGA_demo/T09/demo1_xor/testbench.v|
+!s90 -reportprogress|300|-work|work|-stats=none|C:/Users/ASUS/Desktop/FPGA_demo/T09/demo1_xor/testbench.v|
+!i113 1
+R6
+R7
+vxor_gate
+!s110 1776250662
+!i10b 1
+!s100 J_;a9FI@@:YomI5Gl^Tib0
+R1
+IGOA4mR28HVf7YJc27H4`73
+R2
+R3
+w1775788690
+8C:/Users/ASUS/Desktop/FPGA_demo/T09/demo1_xor/xor_gate.v
+FC:/Users/ASUS/Desktop/FPGA_demo/T09/demo1_xor/xor_gate.v
+!i122 15
+L0 13 18
+R4
+r1
+!s85 0
+31
+!s108 1776250662.000000
+!s107 C:/Users/ASUS/Desktop/FPGA_demo/T09/demo1_xor/xor_gate.v|
+!s90 -reportprogress|300|-work|work|-stats=none|C:/Users/ASUS/Desktop/FPGA_demo/T09/demo1_xor/xor_gate.v|
+!i113 1
+R6
+R7
