@@ -1,8 +1,8 @@
 onerror {resume}
 quietly WaveActivateNextPane {} 0
-add wave -noupdate /testbench/a
-add wave -noupdate /testbench/b
-add wave -noupdate /testbench/y
+add wave -noupdate /testbench/A
+add wave -noupdate /testbench/B
+add wave -noupdate /testbench/Y
 TreeUpdate [SetDefaultTree]
 WaveRestoreCursors {{Cursor 1} {0 ps} 0}
 quietly wave cursor active 0
@@ -20,4 +20,4 @@ configure wave -griddelta 40
 configure wave -timeline 0
 configure wave -timelineunits ps
 update
-WaveRestoreZoom {0 ps} {128 ps}
+WaveRestoreZoom {0 ps} {54 ps}
